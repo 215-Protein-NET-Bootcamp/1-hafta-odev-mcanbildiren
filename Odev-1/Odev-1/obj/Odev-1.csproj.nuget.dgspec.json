@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mcanb\\source\\repos\\Odev-1\\Odev-1\\Odev-1.csproj": {}
+    "C:\\Users\\mcanb\\Source\\Repos\\1-hafta-odev-mcanbildiren\\Odev-1\\Odev-1\\Odev-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mcanb\\source\\repos\\Odev-1\\Odev-1\\Odev-1.csproj": {
+    "C:\\Users\\mcanb\\Source\\Repos\\1-hafta-odev-mcanbildiren\\Odev-1\\Odev-1\\Odev-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mcanb\\source\\repos\\Odev-1\\Odev-1\\Odev-1.csproj",
+        "projectUniqueName": "C:\\Users\\mcanb\\Source\\Repos\\1-hafta-odev-mcanbildiren\\Odev-1\\Odev-1\\Odev-1.csproj",
         "projectName": "Odev-1",
-        "projectPath": "C:\\Users\\mcanb\\source\\repos\\Odev-1\\Odev-1\\Odev-1.csproj",
+        "projectPath": "C:\\Users\\mcanb\\Source\\Repos\\1-hafta-odev-mcanbildiren\\Odev-1\\Odev-1\\Odev-1.csproj",
         "packagesPath": "C:\\Users\\mcanb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mcanb\\source\\repos\\Odev-1\\Odev-1\\obj\\",
+        "outputPath": "C:\\Users\\mcanb\\Source\\Repos\\1-hafta-odev-mcanbildiren\\Odev-1\\Odev-1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
