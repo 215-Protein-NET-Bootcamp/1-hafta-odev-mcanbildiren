@@ -17,7 +17,7 @@ namespace Hafta1_Proje1.Controllers
         {
             double interestRate = 0.05;
             double total = capital * (1 + (interestRate * date));
-            double interest = (capital * (1 + interestRate)) - capital;
+            double interest = (capital * (1 + interestRate * date)) - capital;
             double monthly = capital * (1 + interestRate) / date;
 
             var result = Enumerable.Range(1, 1).Select(index => new Amounts
@@ -37,7 +37,7 @@ namespace Hafta1_Proje1.Controllers
         {
             double interestRate = 0.05;
             double total = capital * (1 + (interestRate * date));
-            double interest = (capital * (1 + interestRate)) - capital;
+            double interest = (capital * (1 + interestRate * date)) - capital;
             double monthly = capital * (1 + interestRate) / date;
             var result = Enumerable.Range(1, date).Select(index => new MonthlyPayment
             {
