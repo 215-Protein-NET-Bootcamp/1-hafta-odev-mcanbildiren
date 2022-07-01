@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JbrHB4th47i7Ni4wulBoFF8mS0ztwkQwFj/1tVDXXCYvJe3aMpW0BzrUuTci3AU93dIGq7sud2IJNfx21b25uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcanb\\source\\repos\\1-hafta-odev-mcanbildiren\\Odev-1\\Odev-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcanb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mcanb\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mcanb\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\mcanb\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\mcanb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\mcanb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
